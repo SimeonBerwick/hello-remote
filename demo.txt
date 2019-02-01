@@ -1,1 +1,2 @@
 Here is some text we added
+My name is Sim and this line is in VSC
